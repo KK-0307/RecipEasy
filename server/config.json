@@ -1,9 +1,0 @@
-{
-  "rds_host": "cis550project.cdqi6e24ec3z.us-east-2.rds.amazonaws.com",
-  "rds_port": "3306",
-  "rds_user": "admin",
-  "rds_password": "C!s55o0SpR2O24",
-  "rds_db": "RECIPES",
-  "server_host": "localhost",
-  "server_port": "8080"
-}

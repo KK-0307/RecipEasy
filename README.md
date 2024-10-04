@@ -22,7 +22,8 @@ Please note that **this code should not be copied or reused**, as it is part of 
 
 ### Client-side:
 1. Navigate to the `client` folder:
-   ```bash
+
+```bash
    cd client/
 ```
 2. Install dependencies:
